@@ -61,10 +61,4 @@ npm run build
 - Safari (latest)
 - Edge (latest)
 
-## License
 
-MIT
-
----
-
-© 2024 InfAIra. All rights reserved.
